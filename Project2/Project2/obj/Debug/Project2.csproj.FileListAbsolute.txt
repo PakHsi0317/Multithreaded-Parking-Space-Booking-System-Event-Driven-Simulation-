@@ -1,0 +1,7 @@
+C:\Desktop\cse445\Project2\Project2\bin\Debug\Project2.exe.config
+C:\Desktop\cse445\Project2\Project2\bin\Debug\Project2.exe
+C:\Desktop\cse445\Project2\Project2\bin\Debug\Project2.pdb
+C:\Desktop\cse445\Project2\Project2\obj\Debug\Project2.csproj.AssemblyReference.cache
+C:\Desktop\cse445\Project2\Project2\obj\Debug\Project2.csproj.CoreCompileInputs.cache
+C:\Desktop\cse445\Project2\Project2\obj\Debug\Project2.exe
+C:\Desktop\cse445\Project2\Project2\obj\Debug\Project2.pdb
